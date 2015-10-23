@@ -8,8 +8,11 @@ Questions:
 
 1.  Name two methods you can use to add a node to the DOM tree, and explain the difference between them.
 
+Append child is the command which adds the document fragment to the DOM tree for the document as a child of the article element. Child nodes have a similar process but this builds off the first child node instead of the DOM tree directly. 
 
 
 
 
 2.  List the six main objects that make up the browser object model. 
+
+Window Objects, Navigator Objects, Document Objects, History Objects, Location Objects, Screen Objects. 
